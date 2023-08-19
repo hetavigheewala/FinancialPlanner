@@ -1,6 +1,8 @@
 # FinancialPlanner
+
 This program prompts the user to enter the hourly pay rate and
 the number of hours worked each week. The program then outputs the following:
+
       a. income before and after taxes from your summer job.
       b. money budgeted for clothes and other accessories. (10%)
       c. money budgeted for school supplies. (1%)
